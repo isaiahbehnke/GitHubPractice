@@ -6,7 +6,7 @@ public class HelloTeam {
 		System.out.println("Greetings, Mr. Turner!");
 		System.out.println("Hello, Branham!");
 		System.out.println("Hello students!");
-		System.out.println("Say hello to Mr. Turner's new room J205!");
+		System.out.println("Salutations to Mr. Turner's new room J205!");
 	}
 
 }
